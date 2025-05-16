@@ -1,0 +1,2 @@
+# skryty-text
+ignorujte to
